@@ -5,7 +5,7 @@ linux_day2_template.md
 # 🧭 DevSecOps Bootcamp — Day 2 Session Summary
 
 ## 🗓️ Date
-**[Enter date here]**
+25/10/2025
 
 ---
 
