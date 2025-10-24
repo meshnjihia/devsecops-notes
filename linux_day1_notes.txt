@@ -9,3 +9,8 @@ Goal:
 commit this file to Github by end of day.
 Fri Oct 24 10:51:12 EAT 2025 — practiced grep/find/chmod (600)
 
+
+## Permissions cheatsheet
+- chmod 600 file  # owner read/write
+- chmod 400 file  # owner read only
+- chown user:group file
