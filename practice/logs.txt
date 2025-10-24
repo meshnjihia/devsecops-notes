@@ -1,0 +1,3 @@
+INFO boot
+WARN disk
+ERROR perms
