@@ -6,4 +6,4 @@ file management: touch, cp mv, rm
 permissions: chmod, ls -l
 
 Goal: 
-committhis file to Github by end of day.
+commit this file to Github by end of day.
