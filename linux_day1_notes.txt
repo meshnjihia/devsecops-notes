@@ -1,0 +1,9 @@
+Day 1 - Linux and Git basics
+
+learned 
+Navigation: pwd, ls, cd
+file management: touch, cp mv, rm
+permissions: chmod, ls -l
+
+Goal: 
+committhis file to Github by end of day.
